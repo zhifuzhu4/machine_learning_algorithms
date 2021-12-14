@@ -1,0 +1,6 @@
+.git/
+.idea/
+__pycache__/
+temp/
+venv/
+try_ideas.py
