@@ -72,8 +72,7 @@ assumes zero centric data like Principal Component Analysis(PCA).
 
 [Normalization vs Standardization](https://www.geeksforgeeks.org/normalization-vs-standardization/)
 
-![normalize vs standardize](https://github.com/zhifuzhu4/ml_algorithms/blob/main/images/max_min_normalization.png)
-
+![normalize vs standardize](https://github.com/zhifuzhu4/ml_algorithms/blob/main/images/normalize_vs_standardize.png)
 
 ### When to scale?
 [Why, How and When to Scale your Features](https://medium.com/greyatom/why-how-and-when-to-scale-your-features-4b30ab09db5e)
