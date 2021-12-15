@@ -31,7 +31,7 @@ same level of magnitudes. This can be acheived by scaling.
 ### Normalization
 
 **Normalization (Min-Max Scaling)** rescales the values into a range of [0, 1].      
-<img src="C:\MyGoogleDrive\Data Science\ml_algorithms\images\min_max_scaling.png" width="200">
+![min max scaling](https://github.com/zhifuzhu4/ml_algorithms/blob/main/images/min_max_scaling.png)
 
 This scales the range to [0, 1] or sometimes [-1, 1]. 
 Geometrically speaking, transformation squishes the n-dimensional data 
@@ -43,17 +43,17 @@ but the age is close to uniform.
 Selecting the target range depends on the nature of the data.
 
 To rescale a range between an arbitrary set of values [a, b], the formula becomes:
-<img src="C:\MyGoogleDrive\Data Science\ml_algorithms\images\range_rescaling.png" width="250">
+![rescale to a range](https://github.com/zhifuzhu4/ml_algorithms/blob/main/images/range_rescaling.png)
 
 ### Mean normalization
 
-<img src="C:\MyGoogleDrive\Data Science\ml_algorithms\images\mean_normalization.png" width="250">
+![mean normalization](https://github.com/zhifuzhu4/ml_algorithms/blob/main/images/mean_normalization.png)
 
 ### Standardization
 
 **Standardization (Z-Score Normalization)** rescales the data to have a 
 mean of 0 and standard deviation of 1 (unit variance). <br>
-<img src="C:\MyGoogleDrive\Data Science\ml_algorithms\images\standardization.png" width="200">
+![standardization](https://github.com/zhifuzhu4/ml_algorithms/blob/main/images/standardization.png)
 
 Standardization can be helpful in cases where the data follows a Gaussian distribution. 
 However, this does not have to be necessarily true. Geometrically speaking, 
@@ -72,9 +72,7 @@ assumes zero centric data like Principal Component Analysis(PCA).
 
 [Normalization vs Standardization](https://www.geeksforgeeks.org/normalization-vs-standardization/)
 
-![aaa](https://github.com/zhifuzhu4/ml_algorithms/blob/main/images/max_min_normalization.png)
-
-<img src="C:\MyGoogleDrive\Data Science\ml_algorithms\images\normalize_vs_standardize.png" width="1000">
+![normalize vs standardize](https://github.com/zhifuzhu4/ml_algorithms/blob/main/images/max_min_normalization.png)
 
 
 ### When to scale?
