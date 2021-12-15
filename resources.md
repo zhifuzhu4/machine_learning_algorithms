@@ -1,2 +1,0 @@
-1. [Rules of Machine Learning](https://developers.google.com/machine-learning/guides/rules-of-ml)
-2. [A Tour of Machine Learning Algorithms](https://machinelearningmastery.com/a-tour-of-machine-learning-algorithms/)
