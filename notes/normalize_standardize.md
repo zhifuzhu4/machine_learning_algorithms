@@ -71,6 +71,9 @@ assumes zero centric data like Principal Component Analysis(PCA).
 <br/>
 
 [Normalization vs Standardization](https://www.geeksforgeeks.org/normalization-vs-standardization/)
+
+![aaa](https://github.com/zhifuzhu4/ml_algorithms/blob/main/images/max_min_normalization.png)
+
 <img src="C:\MyGoogleDrive\Data Science\ml_algorithms\images\normalize_vs_standardize.png" width="1000">
 
 
