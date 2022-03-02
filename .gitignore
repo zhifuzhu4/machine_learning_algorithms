@@ -4,5 +4,6 @@ __pycache__/
 temp/
 venv/
 try_ideas.py
+materials/
 
 wip.txt
